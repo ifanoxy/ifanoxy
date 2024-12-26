@@ -14,7 +14,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a backend developer from <b>France</b> 」
+    「 I'm learning some cool stuff in <b>France</b> 」
     <br>
     <br>
   </samp>
@@ -45,6 +45,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![OCAML](https://img.shields.io/badge/OCAML-yellow?style=for-the-badge&logo=ocaml&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
